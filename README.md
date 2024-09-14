@@ -1,6 +1,6 @@
 # Dto Object (Validator)
 
-A straightforward dto object validator written on GoLang and on top of Go-Validator library.
+A straightforward dto object validator written in GoLang and on top of the [Go-Validator](https://github.com/go-playground/validator) library.
 Good for both restful and gRPC handlers.
 
 ## Install
