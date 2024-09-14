@@ -6,7 +6,7 @@ Good for both restful and gRPC handlers.
 ## Install
 
 ```bash
-go get github.com/tahadostifam/dto-object@latest
+go get github.com/tahadostifam/go-dto-object@latest
 ```
 
 ## Usage
