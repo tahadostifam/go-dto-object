@@ -1,4 +1,4 @@
-module github.com/tahadostifam/dto-object
+module github.com/tahadostifam/go-dto-object
 
 go 1.22.4
 
